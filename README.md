@@ -22,7 +22,7 @@ and I publish writing on engineering and music software.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nextjs,gatsby,tailwind,postgres,redis,docker,git,github,vscode,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,react,nextjs,redux,sass,tailwind,nodejs,nestjs,express,postgres,mysql,redis,graphql,jest,vitest,docker,kubernetes,vite,linux,aws,azure,githubactions,git,github,postman" alt="Tech Stack" />
 </p>
 
 ### What I am Currently Working On
