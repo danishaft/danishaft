@@ -67,9 +67,12 @@ Browser automation for agents and AI coding tools.
 ---
 
 ### Experience Snapshot
-- Senior Frontend Engineer @ Doow — building software for finance and procurement teams, alongside AI-powered products.
-- Frontend Engineer @ Doow — built AI CFO interfaces, a native spreadsheet engine, and browser/desktop usage tracking.
-- Frontend Engineer @ Hexelan Consulting — delivered client web applications end to end.
+- **Software Engineer @ Doow** (May 2025 – Present) — finance and procurement SaaS: AI CFO agents, a native spreadsheet engine, KYB/KYC onboarding, and virtual-card provisioning.
+- **Frontend Engineer @ Doow** (Oct 2024 – Apr 2025) — WCAG 2.1 AA remediation across 12 dashboards, cross-platform telemetry agents, and a typed REST layer across the Turborepo.
+- **AI Coding Expert @ Outlier AI** (Nov 2025 – Mar 2026, freelance) — reviewed AI-generated code in Python, TypeScript, and Java, and built React/Tailwind apps to train UI-generation models.
+- **AI Trainer & Data Annotation Specialist @ Mindrift** (May 2025 – Nov 2025, freelance) — evaluated 500+ AI responses and analyzed evaluation data with Python, Pandas, and NumPy.
+- **Freelance Fullstack Engineer** (Jan 2023 – Oct 2024) — delivered front-end and back-end features for two startups with React, Node.js, and Express (client names under NDA).
+- **Frontend Engineer @ Hexalan Consulting** (Jul 2022 – Jan 2023) — maintained a real-time React dashboard for an enterprise election field-data system.
 
 ### My Development Philosophy
 - I like going deep and really understanding how things work, while still thinking about the bigger picture. I love mentoring and being a team enabler just as much as I love technical challenges.
