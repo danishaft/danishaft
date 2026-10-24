@@ -4,8 +4,10 @@
 ## 🧑‍💻 About Me
 
 I'm a Full-Stack Engineer with 4+ years of experience building production web
-apps, custom browser tools, and AI features — most recently at Doow, where
-we've taken products from early MVPs to launch as part of founding teams.
+apps, custom browser tools, and AI features. From backend systems and APIs to
+frontend design and ML integrations, I work across the whole stack — most
+recently at Doow, where we've taken products from early MVPs to launch as part
+of founding teams.
 
 I specialize in React, TypeScript, and Node.js, with a strong focus on
 maintainable architecture, testing, accessibility, and good UX. Some work I'm
