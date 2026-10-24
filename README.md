@@ -26,9 +26,9 @@ and I publish writing on engineering and music software.
 
 ### What I am Currently Working On
 
-- **REAPER MCP:** I produce music in REAPER, so I built an MCP server that lets
-  AI agents drive it — routing, automation, and mixing sessions in natural
-  language. It began as a tool I wanted to use myself, like most of my projects.
+- **The spreadsheet engine:** I'm currently deep on Doow's native spreadsheet
+  engine for our AI CFO agents — getting 100,000+ cells to run at 60 FPS on a
+  custom formula compiler I built from scratch.
 
 ## 🔥 Featured Projects
 
