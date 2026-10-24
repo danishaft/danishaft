@@ -9,12 +9,12 @@ frontend design and ML integrations, I work across the whole stack — most
 recently at Doow, where we've taken products from early MVPs to launch as part
 of founding teams.
 
-I specialize in React, TypeScript, and Node.js, with a strong focus on
-maintainable architecture, testing, accessibility, and good UX. Some work I'm
-proud of: building AI CFO interfaces from the ground up, a native spreadsheet
-engine I compiled custom formulas for (100,000+ cells running at 60 FPS), and
-an internal AI review agent that saves the engineering team ~1,000 hours a
-week.
+I specialize in designing clean architectures, efficient APIs, and
+production-ready systems using React, TypeScript, and Node.js, with a strong
+focus on testing, accessibility, and good UX. Some work I'm proud of: building
+AI CFO interfaces from the ground up, a native spreadsheet engine I compiled
+custom formulas for (100,000+ cells running at 60 FPS), and an internal AI
+review agent that saves the engineering team ~1,000 hours a week.
 
 Currently focused on AI-powered products, agentic workflows, and MCP tooling.
 Outside of work, I build audio and browser automation tools in Rust and Python,
