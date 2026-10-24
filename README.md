@@ -1,18 +1,22 @@
 # Hi there, Ejeh here! 👋
-💡 *Senior Frontend Engineer crafting products people reach for every day.*
+💡 *I like pulling things apart to see how they work. These days it's software.*
 
 ## 🧑‍💻 About Me
 
-I'm a Senior Frontend Engineer with 4+ years of experience building web
-applications used by real customers — currently in production at Doow.
+I'm a Full-Stack Engineer with 4+ years of experience building production web
+apps, custom browser tools, and AI features — most recently at Doow, where
+we've taken products from early MVPs to launch as part of founding teams.
 
-I specialize in TypeScript-heavy React architecture, clean teammate-facing
-abstractions, and making complex products feel simple. I enjoy pulling systems
-apart to see how they work (LLMs, audio software, browsers) and building the
-integrations I always wished existed.
+I specialize in React, TypeScript, and Node.js, with a strong focus on
+maintainable architecture, testing, accessibility, and good UX. Some work I'm
+proud of: building AI CFO interfaces from the ground up, a native spreadsheet
+engine I compiled custom formulas for (100,000+ cells running at 60 FPS), and
+an internal AI review agent that saves the engineering team ~1,000 hours a
+week.
 
-Currently focused on agentic workflows, MCP tooling, and interface design that
-feels as good as it looks.
+Currently focused on AI-powered products, agentic workflows, and MCP tooling.
+Outside of work, I build audio and browser automation tools in Rust and Python,
+and I publish writing on engineering and music software.
 
 ## 🛠️ Tech Stack
 
@@ -22,27 +26,29 @@ feels as good as it looks.
 
 ### What I am Currently Working On
 
-- **REAPER MCP:** MCP server that lets AI agents drive REAPER, the DAW I produce music in — routing, automation, and mixing sessions through natural language.
+- **REAPER MCP:** I produce music in REAPER, so I built an MCP server that lets
+  AI agents drive it — routing, automation, and mixing sessions in natural
+  language. It began as a tool I wanted to use myself, like most of my projects.
 
 ## 🔥 Featured Projects
 
 ### 🎛️ [REAPER MCP](https://github.com/danishaft/reaper-mcp)
-MCP server bridging AI agents and the REAPER digital audio workstation.
+Lets AI agents drive the DAW I make music in.
 
 **Highlights:**
-- Session control through natural language — routing, tracks, automation
-- Built for the music-production workflow I use daily
+- Session control in plain language — routing, tracks, automation
+- Built for my own mixing workflow first; now it's out in the world
 
 **Tech:** TypeScript, MCP, REAPER
 
 ---
 
 ### ✂️ [StemSplitter](https://github.com/danishaft/auralith-stemsplitter)
-Audio stem separation made practical.
+Audio stem separation, made practical for producers.
 
 **Highlights:**
-- Extract natural-language presets and translate them into executable bundles
-- Designed around real producer workflows, not lab demos
+- Natural-language presets that become executable bundles
+- Made for real producer workflows, not lab demos
 
 **Tech:** Python, TypeScript, Audio DSP
 
@@ -53,19 +59,19 @@ Browser automation for agents and AI coding tools.
 
 **Highlights:**
 - Clean HTTP-level browsing primitives for coding agents
-- Integrates directly into AI-assisted dev workflows
+- Started as a tool for my own AI-assisted workflow
 
 **Tech:** TypeScript, Browser automation
 
 ---
 
 ### Experience Snapshot
-- Senior Frontend Engineer @ Doow — shipping production features and acting as team lead for frontend standards.
-- Frontend Engineer @ Doow — built core product surfaces with React and TypeScript.
+- Senior Frontend Engineer @ Doow — building software for finance and procurement teams, alongside AI-powered products.
+- Frontend Engineer @ Doow — built AI CFO interfaces, a native spreadsheet engine, and browser/desktop usage tracking.
 - Frontend Engineer @ Hexelan Consulting — delivered client web applications end to end.
 
 ### My Development Philosophy
-- I start by understanding the whole system before breaking it into clean, maintainable pieces. Good software is honest about its trade-offs, kind to the people maintaining it, and a little bit delightful to use.
+- I like going deep and really understanding how things work, while still thinking about the bigger picture. I love mentoring and being a team enabler just as much as I love technical challenges.
 
 ## 📫 Connect With Me
 
@@ -78,4 +84,4 @@ Browser automation for agents and AI coding tools.
 
 ## ✨ Fun Fact
 
-> 💡 I got into tech by pulling machines apart to see how they worked — I still do it, just with software now.
+> 💡 I started pulling apart machines around the same time I started playing with Lego blocks.
